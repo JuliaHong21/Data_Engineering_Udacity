@@ -15,7 +15,7 @@ Sharpen your data warehousing skills and deepen your understanding of data infra
 
 ### Spark and Data Lakes
 
-Understand the big data ecosystem and how to use Spark to work with massive datasets. Store big data in a data lake and query it with Spark. (DataFrame, SparkSQL, S3, EMR)
+Understand the big data ecosystem and how to use Spark to work with massive datasets. Store big data in a data lake and query it with Spark. (Pyspark, SparkSQL, DataFrame, S3, EMR)
 
 ### Data Pipelines with Airflow
 
