@@ -11,11 +11,11 @@ Learn to create relational and NoSQL data models to fit the diverse needs of dat
 
 ### Cloud Data Warehouses
 
-Sharpen your data warehousing skills and deepen your understanding of data infrastructure. Create cloud-based data warehouses on Amazon Web Services (AWS). (Redshift)
+Sharpen your data warehousing skills and deepen your understanding of data infrastructure. Create cloud-based data warehouses on Amazon Web Services (Redshift)
 
 ### Spark and Data Lakes
 
-Understand the big data ecosystem and how to use Spark to work with massive datasets. Store big data in a data lake and query it with Spark. (Pyspark, SparkSQL, DataFrame, S3, EMR)
+Understand the big data ecosystem and how to use Spark to work with massive datasets. Store big data in a data lake and query it with Spark. (Pyspark, SparkSQL, DataFrame, AWS S3, EC2, EMR)
 
 ### Data Pipelines with Airflow
 
